@@ -1,4 +1,4 @@
-package com.irvinerp.cryptocurrencyapp.ui.theme
+package com.irvinerp.cryptocurrencyapp.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
